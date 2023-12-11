@@ -32,6 +32,23 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 ### Procedure
 
 Connect the supply (+5V) to the circuit
+
+
+i)Hald Adder
+
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/062fcdb7-c981-4871-9a35-8a82b056a85e)
+
+
+
+ii)Full Adder
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/e59591f7-7249-4adf-9d7d-851542c98382)
+
+
+
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
@@ -46,9 +63,97 @@ RTL realization
 
 ### Output:
 ### RTL
+
+i)Half Adder
+
+
+
+
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/2a91dfbc-8bb7-4770-ba56-17477ed96235)
+
+
+
+
+
+
+
+
+ii)Full Adder
+
+
+
+
+
+
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/93b81a40-674e-4fa5-a6f1-6fe6202f2d07)
+
+
+
+
 ### TIMING DIAGRAM
+
+
+
+i)Half Adder
+
+
+
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/a055ce01-6c00-4955-8ed5-81fa21f75c37)
+
+
+
+
+
+ii)Full Adder
+
+
+
+
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/e8a7fd14-23f4-4d4e-82a7-f3b8e10e5943)
+
 
 
 ### TRUTH TABLE 
 
+
+
+
+i)Half Adder
+
+
+
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/347d70b3-1a09-4446-aef1-5fedbb78c4e1)
+
+
+
+
+
+ii)Full Adder
+
+
+
+
+
+
+![image](https://github.com/sasi1324/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150313315/cb544279-f06b-48ac-b256-f33d521ebd88)
+
+
+
+
+
+
+
+
 ### Result:
+
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
